@@ -1,2 +1,0 @@
-/usr/bin/ar qc lib/liblcmtypes_lcm_scan.a  CMakeFiles/lcmtypes_lcm_scan.dir/lcmtypes/c/lcmtypes/exlcm_example_t.c.o CMakeFiles/lcmtypes_lcm_scan.dir/lcmtypes/c/lcmtypes/lidar_lidar_t.c.o
-/usr/bin/ranlib lib/liblcmtypes_lcm_scan.a

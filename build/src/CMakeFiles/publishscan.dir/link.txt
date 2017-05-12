@@ -1,0 +1,1 @@
+/usr/bin/c++      CMakeFiles/publishscan.dir/publishscan.cpp.o  -o ../bin/publishscan  -L/home/fu/git/lcm_scan/build/lib  -L/usr/local/lib -rdynamic -L/usr/local/lib -lz ../lib/liblcmtypes_lcm_scan.a -llcm -lgthread-2.0 -lglib-2.0 -pthread -lboost_system -lboost_system -Wl,-rpath,/home/fu/git/lcm_scan/build/lib:/usr/local/lib 

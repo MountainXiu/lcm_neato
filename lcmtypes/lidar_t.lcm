@@ -1,0 +1,13 @@
+package lidar;
+
+struct lidar_t
+{
+	int64_t timestamp;
+	float angle_min;
+	float angle_max;
+	int32_t range_min;
+	int32_t range_max;
+	int32_t num_ranges;
+	int16_t ranges[num_ranges];
+	int16_t intensities[num_ranges];
+}

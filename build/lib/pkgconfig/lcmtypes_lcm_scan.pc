@@ -1,0 +1,12 @@
+prefix=/usr/local
+exec_prefix=${prefix}
+libdir=${exec_prefix}/lib
+includedir=${prefix}/include
+
+Name: lcmtypes_lcm_scan
+Description: LCM types for lcm_scan
+Requires:  lcm
+Version: 0.0.0
+Libs: -L${libdir}  -llcmtypes_lcm_scan
+Cflags: -I${includedir} 
+classpath=
